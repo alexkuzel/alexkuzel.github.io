@@ -4,15 +4,26 @@ layout: basiclayout
 
 # Greetings...
 
-I'm Alex, welcome to my humble website! This is a portfolio site collecting all my weird little projects. It's hosted on Github Pages, since my old Wix site ran out of file storage space. I'm enjoying doing all the website work myself, learning HTML formatting and whatnot.
-
-[Link to Github website respository if you want to see the code and files and such.](https://github.com/alexkuzel20/alexkuzel20.github.io)
+I'm Alex, welcome to my humble website! This is a portfolio site collecting all my weird little projects.
 
 I'm an incredibly offline person, and don't have much internet presence outside of this website. I write film and book reviews on [Letterboxd](https://letterboxd.com/grungus/) and [Goodreads](https://www.goodreads.com/user/show/164570627-alex-kuzel) respectivley, but that's pretty much it. Because all of my media analysis (and some quite good analysis at times, I'd like to think) is on those sites, my blog writing here is more essay-oriented.
 
 ### New(er)sletter?
-I've been sending out monthly newsletters for a while, just Life Updates from myself really, but while Wix had integrated tools for that, it seems to be an involved process to integrate email tools into a site like this. This is probably for the best, I'm uncomfortable around all the AI-propoganda put into all these tools and I've got very minimal+DiY sensibilities, so I will likely continue using Wix's newsletter services for the time being and then transition to just emailing people directly from my personal email. There's only a few of you anyway, it's not like I need some crazy powerful machinery for a simple task.
 
-If you aren't on that list and want to be, you can head to [My Old Site](https://alexkuzel20.wixsite.com/world), or email me and say something like "Hello please send me the newsletter, thank you and have a great day" (if you don't care how my day turns out you can omit that last part).
+Please join my newsletter, it's good I promise! Signup is still via [My Old Site](https://alexkuzel20.wixsite.com/world), but you can email me and say something like "Hello please send me the newsletter, thank you and have a great day" (if you don't care how my day turns out you can omit that last part).
+
+
+### Just the Hits, Please
+
+Here's (in my opinion) the most interesting things I've worked on (in order), if you want a quick "best of" list.
+
+- The [Fear and Loathing](https://alexkuzel20.github.io/pages/blogPages/orlando) blog post is without a doubt the best piece of writing I've done, I'm super proud of it
+- I love the [Gaslands Stop Motion](https://www.youtube.com/watch?v=t8OhW5AUIus) short film, but am eager to replace this entry with the film I'm working on now (once it's done)
+- While not the most technically sophisticated sculpting I've done, I really think you'll enjoy the [Dragon Sculptures](https://alexkuzel20.github.io/pages/sculptingPages/dragon_archive)
+- I have a LOT of miniatures painted that I feel varying levels of pride towards, but the [Hot Boys](https://alexkuzel20.github.io/pages/miniaturesPages/hot_boys) are (I think) really accessible if you don't know a lot about miniatures and just want to see some plastic and say "Hell Yeah".
+
+### References for Computer People
+
+Link to the [Github website respository](https://github.com/alexkuzel20/alexkuzel20.github.io) if you want to see the code and files and such.
 
 Template for my website is based off of this [minimal Jekyll theme](https://github.com/pages-themes/minimal).

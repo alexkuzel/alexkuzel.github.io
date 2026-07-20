@@ -64,7 +64,7 @@ Gaslands is a Mad-Max-inspired wargame that intends for you to buy cheap hotwhee
 ---
 
 ![gaslands11](/assets/img/miniatures/gaslands/11.jpg)
-*11. Now this is ~podracing~ Gaslands. Totally scratch built, no toy car used as a base. I got the idea from "Bead Bots" I had seen on various hobby Youtube channels.*
+*11. Now this is ~~podracing~~ Gaslands. Totally scratch built, no toy car used as a base. I got the idea from "Bead Bots" I had seen on various hobby Youtube channels.*
 
 ---
 

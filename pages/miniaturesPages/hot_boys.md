@@ -6,7 +6,7 @@ layout: basiclayout
 
 [back](https://alexkuzel20.github.io/pages/miniature_archive)
 
-I suppose "technically" these models are "Emperor's Children" a Chaos Space Marines subfaction devoted to the Chaos god Slaanesh. However, when I was playing the Warhammer video game Dawn of War, Sammy, my roomate at the time, created the neon pink faction he named Hot Boys. It was around that time I got my 3D printer, and it was written in the stars that I brought the Hot Boys into reality. These models are fully 3D printed, and while there *do* exist some .stl files that look exactly like official Warhammer models, I bought a bunch of really cool original designs online to print. 
+I suppose "technically" these models are "Emperor's Children", a Chaos Space Marines subfaction devoted to the Chaos god Slaanesh. However, when I was playing the Warhammer video game Dawn of War, Sammy, my roomate at the time, created the neon pink custom faction he named Hot Boys. It was around that time I got my 3D printer, and it was written in the stars that I brought the Hot Boys into reality. These models are fully 3D printed, and while there *do* exist some .stl files that look exactly like official Warhammer models, I bought a bunch of really cool original designs online to print. 
 
 ![family photo](/assets/img/miniatures/hot_boys/24.jpg)
 *The gang*
@@ -54,7 +54,7 @@ I suppose "technically" these models are "Emperor's Children" a Chaos Space Mari
 ---
 
 ![hot_boys9](/assets/img/miniatures/hot_boys/09.jpg)
-*9.*
+*9.* Even among my friends who I got playing miniatures games, I recognize that I was the one most into it, and theres oodles of things that no one will notice or care about other than me, which is sort of a shame but I get it. Point being, I think it is really interesting and cool that the weapons attached to the guitar, in this model and others, are Flamers and Bolters from 40k. Like, official Warhammer models have very specific design language to identify weapons as "Bolter-shaped", and I think it's awesome that the 3rd party designers sculpted wacky gun-guitars that fit within the game's ecisting iconography. Like I said, I know no one else is noticing these things but me, but I wanted to bring it to your attention :)
 
 ---
 
@@ -74,7 +74,7 @@ I suppose "technically" these models are "Emperor's Children" a Chaos Space Mari
 ---
 
 ![hot_boys13](/assets/img/miniatures/hot_boys/13.jpg)
-*13. The one arms failed to print properly, so the tentacle is my hasty fix for the problem via modelling clay.*
+*13. The one arm failed to print properly, so the tentacle is my hasty fix for the problem via modelling clay.*
 
 ---
 
