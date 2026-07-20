@@ -22,6 +22,21 @@ Here's the main sculpture collection, with items displayed in reverse chronilogi
 
 <div class="row">
   <div class="column_img">
+    <img src="/assets/img/sculpting/masonDone.jpg" alt="mason" style="width:100%">
+  </div>
+  <div class="column_img">
+    <img src="/assets/img/sculpting/shaneDone.jpg" alt="shane" style="width:100%">
+  </div>
+  <div class="column_img">
+    <img src="/assets/img/sculpting/stevenDone.jpg" alt="steven" style="width:100%">
+  </div>
+</div>
+*January-March, 2026. Mason, Shane and Steven. I originally intended (and still do) to make a dedicated post for each of these portraits, I recorded interviews with my friends as I sculpted them, and want(ed) to make an end-of-the-year post with each interview and sculpture. As of July 2026 I'm very much sidetracked with other things, and have put the portrait project on hold, but putting these up here as a placeholder/checkpoint.*
+
+***
+
+<div class="row">
+  <div class="column_img">
     <img src="/assets/img/sculpting/hand1.png" alt="hand" style="width:100%">
   </div>
   <div class="column_img">
