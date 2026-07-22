@@ -4,7 +4,7 @@ layout: basiclayout
 
 # Hot Boys Miniatures (2021-2022)
 
-[back](https://alexkuzel20.github.io/pages/miniature_archive)
+[back](https://alexkuzel.github.io/pages/miniature_archive)
 
 I suppose "technically" these models are "Emperor's Children", a Chaos Space Marines subfaction devoted to the Chaos god Slaanesh. However, when I was playing the Warhammer video game Dawn of War, Sammy, my roomate at the time, created the neon pink custom faction he named Hot Boys. It was around that time I got my 3D printer, and it was written in the stars that I brought the Hot Boys into reality. These models are fully 3D printed, and while there *do* exist some .stl files that look exactly like official Warhammer models, I bought a bunch of really cool original designs online to print. 
 

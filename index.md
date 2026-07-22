@@ -17,13 +17,13 @@ Please join my newsletter, it's good I promise! Signup is still via [My Old Site
 
 Here's (in my opinion) the most interesting things I've worked on (in order), if you want a quick "best of" list.
 
-- The [Fear and Loathing](https://alexkuzel20.github.io/pages/blogPages/orlando) blog post is without a doubt the best piece of writing I've done, I'm super proud of it
+- The [Fear and Loathing](https://alexkuzel.github.io/pages/blogPages/orlando) blog post is without a doubt the best piece of writing I've done, I'm super proud of it
 - I love the [Gaslands Stop Motion](https://www.youtube.com/watch?v=t8OhW5AUIus) short film, but am eager to replace this entry with the film I'm working on now (once it's done)
-- While not the most technically sophisticated sculpting I've done, I really think you'll enjoy the [Dragon Sculptures](https://alexkuzel20.github.io/pages/sculptingPages/dragon_archive)
-- I have a LOT of miniatures painted that I feel varying levels of pride towards, but the [Hot Boys](https://alexkuzel20.github.io/pages/miniaturesPages/hot_boys) are (I think) really accessible if you don't know a lot about miniatures and just want to see some plastic and say "Hell Yeah".
+- While not the most technically sophisticated sculpting I've done, I really think you'll enjoy the [Dragon Sculptures](https://alexkuzel.github.io/pages/sculptingPages/dragon_archive)
+- I have a LOT of miniatures painted that I feel varying levels of pride towards, but the [Hot Boys](https://alexkuzel.github.io/pages/miniaturesPages/hot_boys) are (I think) really accessible if you don't know a lot about miniatures and just want to see some plastic and say "Hell Yeah".
 
 ### References for Computer People
 
-Link to the [Github website respository](https://github.com/alexkuzel20/alexkuzel20.github.io) if you want to see the code and files and such.
+Link to the [Github website respository](https://github.com/alexkuzel/alexkuzel.github.io) if you want to see the code and files and such.
 
 Template for my website is based off of this [minimal Jekyll theme](https://github.com/pages-themes/minimal).

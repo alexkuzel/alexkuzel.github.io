@@ -4,7 +4,7 @@ layout: basiclayout
 
 # Necron Miniatures (2020)
 
-[back](https://alexkuzel20.github.io/pages/miniature_archive)
+[back](https://alexkuzel.github.io/pages/miniature_archive)
 
 Necrons are another happy addition to the "My Brother Painted These Models One Color And I Stole Them And Added More Paint" family <3
 

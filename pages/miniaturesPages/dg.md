@@ -4,7 +4,7 @@ layout: basiclayout
 
 # Death Guard Miniatures (2018-2022)
 
-[back](https://alexkuzel20.github.io/pages/miniature_archive)
+[back](https://alexkuzel.github.io/pages/miniature_archive)
 
 Death Guard are my favorite! Maybe not just because they're my oldest and I think most extensive collection. The grimy industiral look is what DiY wargaming, and presently stop motion, is all about for me. They were the first warhammer models I had, from the 8th Edition (Dark Imperium) starter set.
 

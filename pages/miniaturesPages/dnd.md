@@ -4,7 +4,7 @@ layout: basiclayout
 
 # Dungeons & Dragons Miniatures (2017-2021)
 
-[back](https://alexkuzel20.github.io/pages/miniature_archive)
+[back](https://alexkuzel.github.io/pages/miniature_archive)
 
 Though I have gripes with D&D as a game, I have serious nostalgia for my time in that space, and appreciation for the path I was set on via miniature painting.
 

@@ -4,7 +4,7 @@ layout: basiclayout
 
 # Space Marines Miniatures (2020)
 
-[back](https://alexkuzel20.github.io/pages/miniature_archive)
+[back](https://alexkuzel.github.io/pages/miniature_archive)
 
 Many of these models are from the Dark Imperium starter set, I painted the Death Guard, and Peyton painted the Space Marine half... until he realized painting minis wasn't his thing and I finished these models. I practiced some layering and edge highlighting with this team, trying to get the "cleanest" look I could manage.
 

@@ -4,7 +4,7 @@ layout: basiclayout
 
 # Gaslands (2023-2024)
 
-[back](https://alexkuzel20.github.io/pages/miniature_archive)
+[back](https://alexkuzel.github.io/pages/miniature_archive)
 
 Gaslands is a Mad-Max-inspired wargame that intends for you to buy cheap hotwheels and glue on spare warhammer bits, which is exactly what I did! I really enjoy(ed) the freedom of building my own stuff, and the rules for Gaslands are a lot more straightforward/accessible/fun than Warhammer. Genuinely, if these models look cool to you I highly reccomend picking up a copy of the rules. At the time of writing, "Gaslands: Refuled" is the current edition. 
 

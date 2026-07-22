@@ -4,7 +4,7 @@ layout: basiclayout
 
 # Imperial Guard Miniatures (2022)
 
-[back](https://alexkuzel20.github.io/pages/miniature_archive)
+[back](https://alexkuzel.github.io/pages/miniature_archive)
 
 This army is fully 3D printed. All the sculpts are from [redmakers](https://red-makers.com/), I wanted a wintery themed Imperial Guard faction to compliment the snowy Space Wolves. I was painting these at home, during my junior year college internship. Every night after work I would video call Katrina from my parents dining room table and paint miniatures.
 
