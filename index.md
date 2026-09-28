@@ -22,7 +22,7 @@ I have a LOT of miniatures painted that I feel varying levels of pride towards, 
 
 ### New(er)sletter?
 
-Please join my newsletter, it's good I promise! Signup is still via [My Old Site](https://alexkuzel20.wixsite.com/world), but you can email me and say something like "Hello please send me the newsletter, thank you and have a great day" (if you don't care how my day turns out you can omit that last part).
+Please join my newsletter, it's good I promise! Signup is still via [My Old Site](https://alexkuzel20.wixsite.com/world), but you can email me at alexkuzel.business@gmail.com and say something like "Hello please send me the newsletter, thank you and have a great day" (if you don't care how my day turns out you can omit that last part).
 
 
 ### References for Computer People
