@@ -4,7 +4,7 @@ layout: basiclayout
 
 # Necron Miniatures (2020)
 
-[back](https://alexkuzel20.github.io/pages/miniature_archive)
+[back](https://alexkuzel.github.io/pages/miniature_archive)
 
 Necrons are another happy addition to the "My Brother Painted These Models One Color And I Stole Them And Added More Paint" family <3
 
@@ -56,7 +56,8 @@ Not too much to say here, my goal with most of these was to get them to the tabl
 ---
 
 ![necrons9](/assets/img/miniatures/necrons/09.jpg)
-*9. Previous model and the rest are Flayed Ones. Lore-wise, I'm pretty sure they're Necrons who believe they're still mortal and cloak themselves in flesh in their delusion; but finance-wise, the official sculpts cost like 60$ for 5 models so I took regular Necron Warriors, glued swords on their hands and put some greenstuff on them which I painted tan. Fun fact, the blades on this models arms are actually LEGO cutlasses!
+*9. Previous model and the rest are Flayed Ones. Lore-wise, I'm pretty sure they're Necrons who believe they're still mortal and cloak themselves in flesh in their delusion; but finance-wise, the official sculpts cost like 60$ for 5 models so I took regular Necron Warriors, glued swords on their hands and put some greenstuff on them which I painted tan. Fun fact, the blades on this models arms are actually LEGO cutlasses!*
+
 ---
 
 ![necrons10](/assets/img/miniatures/necrons/10.jpg)

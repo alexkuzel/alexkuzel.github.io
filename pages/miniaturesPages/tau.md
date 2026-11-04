@@ -4,7 +4,7 @@ layout: basiclayout
 
 # T'au Miniatures (2019)
 
-[back](https://alexkuzel20.github.io/pages/miniature_archive)
+[back](https://alexkuzel.github.io/pages/miniature_archive)
 
 The T'au! No notes on these ones, I painted so many Kill Teams senior year of high school, this was just another one. Kind of sad because I conceptually like T'au. 
 

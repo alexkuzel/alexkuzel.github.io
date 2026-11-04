@@ -4,7 +4,7 @@ layout: basiclayout
 
 # Space Wolves Miniatures (2021-2022)
 
-[back](https://alexkuzel20.github.io/pages/miniature_archive)
+[back](https://alexkuzel.github.io/pages/miniature_archive)
 
 This was the first army I 3D printed, along with the Hot Boys. I was dissapointed with newer releases of official Space Wolves models; they had less unique boxes for the subfaction and the expectation was that you bought regular Space marines and painted them a different shade of blue. So I was seeking out printer files to make the most aggressivley viking-themed amry. Because the bits are cobbled together from several different sources, they look a bit weird, but I love 'em.
 

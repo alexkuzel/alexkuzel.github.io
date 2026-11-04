@@ -4,7 +4,7 @@ layout: basiclayout
 
 # Orks Miniatures (2022)
 
-[back](https://alexkuzel20.github.io/pages/miniature_archive)
+[back](https://alexkuzel.github.io/pages/miniature_archive)
 
 The Orks were the last Warhammer Miniatures I painted before moving to Owego and retiring from "the business", as it were. These blokes are really an oddball in my collection - Peyton bought the models and added a bit of paint, then Mason bought them off him, and added a bit more paint. Lastly, I bought them off Mason (okay, being honest, I think I took them for free), and added a fresh coat of paint over most parts of most models. 
 

@@ -4,7 +4,7 @@ layout: basiclayout
 
 # Genestealer Cults Miniatures (2019)
 
-[back](https://alexkuzel20.github.io/pages/miniature_archive)
+[back](https://alexkuzel.github.io/pages/miniature_archive)
 
 It's a shame I have so little to say about these models collectivley, because I love them to bits. Maybe thats because the color scheme is my own decision, and not the "official" Warhammer color pallete.
 
