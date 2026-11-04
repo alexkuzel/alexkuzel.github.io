@@ -6,7 +6,7 @@ layout: basiclayout
 
 Thank you for visiting my site! I just released my short film, Posthuman Lament.
 
-![PL Poster](/assets/img/Poster.png)
+<img src="/assets/img/Poster.png" alt="PL Poster" width="50%">
 
 [Watch the film on Youtube here](https://youtu.be/qpin5VvNtcA)
 
