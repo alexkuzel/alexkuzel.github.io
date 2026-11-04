@@ -22,9 +22,9 @@ I'm an incredibly offline person, and don't have much internet presence outside 
 
 Here's (in my opinion) the most interesting things I've worked on (in order), if you want a quick "best of" list.
 
-The [Fear and Loathing](https://alexkuzel.github.io/pages/blogPages/orlando) blog post is without a doubt the best piece of writing I've done, I'm super proud of it
+[Posthuman Lament.](https://youtu.be/qpin5VvNtcA)
 
-I love the [Gaslands Stop Motion](https://www.youtube.com/watch?v=t8OhW5AUIus) short film, but am eager to replace this entry with the film I'm working on now (once it's done)
+The [Fear and Loathing](https://alexkuzel.github.io/pages/blogPages/orlando) blog post is without a doubt the best piece of writing I've done, I'm super proud of it
 
 While not the most technically sophisticated sculpting I've done, I really think you'll enjoy the [Dragon Sculptures](https://alexkuzel.github.io/pages/sculptingPages/dragon_archive)
 
