@@ -39,7 +39,7 @@ I suppose "technically" these models are "Emperor's Children", a Chaos Space Mar
 ---
 
 ![hot_boys6](/assets/img/miniatures/hot_boys/06.jpg)
-*6. "Noise Marines" are a real type of unit in Warhammer, unfortunately, the official models look like they've got pretty normal guns. Huge thanks to all the 3rd party designers who create totally rediculous (complimentary) noise marines.*
+*6. "Noise Marines" are a real type of unit in Warhammer, unfortunately, the official models look like they've got pretty normal guns. Huge thanks to all the 3rd party designers who create totally ridiculous (complimentary) noise marines.*
 
 ---
 
