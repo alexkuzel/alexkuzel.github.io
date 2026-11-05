@@ -6,6 +6,13 @@ body {
     padding-top: 100px;
     padding-bottom: 100px; /*Note, lets add a site foote */
     font-family: "Noto Serif", Garamond, Arial, serif;
+    background-color: white;
+    color: black;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
 }
 
 .column {
@@ -51,7 +58,7 @@ h3 {
 p {
     font-size: 1.4rem;
     line-height: 2rem;
-    color:black;
+    /*color:black;*/
     padding-left: 10%;
     padding-right: 10%;
     max-width: 100rem;
