@@ -81,9 +81,3 @@ img {
   flex: 20%;
   padding: 2%;
 }
-
-
-div {
-  display: flex;
-  align-items: center;
-}
