@@ -2,9 +2,7 @@
 layout: basiclayout
 ---
 
-# Misc.
-
-The old site used this page for non-book non-film reccomendations, and to be brief I'll just say that the board game *Arcs* and the video game *Disco Elysium* are both very good.
+# Webrings and Guestbook
 
 ## Cool Websites You Will Visit
 *Do you have a personal site? Let me know and I'll include it here!*
@@ -14,8 +12,8 @@ The old site used this page for non-book non-film reccomendations, and to be bri
 <p align="center"><div style="display:inline-flex;line-height:0;">
   <a href="https://webring.rewildtheweb.org/prev?from=alexkuzel.github.io" target="_top"><img src="https://rewildtheweb.org/webring-arrow-prev-mushroom-green-bubble.png" alt="previous site in the rewild the web webring" width="17" height="31" style="image-rendering:pixelated;"></a>
   <a href="https://rewildtheweb.org/webring/" target="_top"><img src="https://rewildtheweb.org/webring-badge-mushroom-green-bubble.png" alt="rewild the web webring" width="88" height="31" style="image-rendering:pixelated;"></a>
-  <a href="https://webring.rewildtheweb.org/next?from=alexkuzel.github.io" target="_top"><img src="https://rewildtheweb.org/webring-arrow-next-mushroom-green-bubble.png" alt="next site in the rewild the web webring" width="17" height="31" style="image-rendering:pixelated;"></a></p>
-</div>
+  <a href="https://webring.rewildtheweb.org/next?from=alexkuzel.github.io" target="_top"><img src="https://rewildtheweb.org/webring-arrow-next-mushroom-green-bubble.png" alt="next site in the rewild the web webring" width="17" height="31" style="image-rendering:pixelated;"></a>
+</div></p>
 
 ## The Guestbook!
 Sign the guestbook please
