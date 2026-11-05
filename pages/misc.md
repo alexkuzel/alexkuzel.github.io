@@ -22,6 +22,8 @@ layout: basiclayout
 </map>
 <img usemap="#noaisys1widget" src="https://baccyflap.com/noai/sys1widget.gif" alt="an 80s Macintosh System 1 style black-and-white dialog box titled 'The No AI Webring' with a little icon showing a dead computer. beside it are three clickable buttons, labeled Previous, Random and Next">
 
+<div id="webmasteringbtn"><a href="https://webmasterwebring.netlify.app?AlexK-previous">&lt;</a><a href="https://webmasterwebring.netlify.app"><img src="https://file.garden/ZrZSgsrYfQXsO7QH/ww/btn.png" width="88" height="31"></a><a href="https://webmasterwebring.netlify.app?AlexK-random" style="font-size: 1.5rem;">?</a> <a href="https://webmasterwebring.netlify.app?AlexK-next">&gt;</a></div>
+
 </div>
 
 ## The Guestbook!
