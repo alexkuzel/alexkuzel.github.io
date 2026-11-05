@@ -18,6 +18,8 @@ I'm Alex, welcome to my humble website! This is a portfolio site collecting all 
 
 I'm an incredibly offline person, and don't have much internet presence outside of this website. I write film and book reviews on [Letterboxd](https://letterboxd.com/grungus/) and [Goodreads](https://www.goodreads.com/user/show/164570627-alex-kuzel) respectivley, but that's pretty much it. Because all of my media analysis (and some quite good analysis at times, I'd like to think) is on those sites, my blog writing here is more essay-oriented.
 
+P.S. Have you signed [the Guestbook?](https://alexkuzel.github.io/pages/misc)
+
 ### "Just the Hits, Please"
 
 Here's (in my opinion) the most interesting things I've worked on (in order), if you want a quick "best of" list.
