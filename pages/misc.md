@@ -26,7 +26,7 @@ layout: basiclayout
 </div>
 <link rel="stylesheet" type="text/css" href="https://file.garden/ZrZSgsrYfQXsO7QH/ww/webmasterwebring.css">
 <div class="center">
-  <div id="webmasteringbtn"><a href="https://webmasterwebring.netlify.app?YOURSLUG-previous">&lt;</a><a href="https://webmasterwebring.netlify.app"><img src="https://file.garden/ZrZSgsrYfQXsO7QH/ww/btn.png" width="88" height="31"></a><a href="https://webmasterwebring.netlify.app?YOURSLUG-random" style="font-size: 1.5rem;">?</a> <a href="https://webmasterwebring.netlify.app?YOURSLUG-next">&gt;</a></div>
+  <div id="webmasteringbtn"><a href="https://webmasterwebring.netlify.app?AlexK-previous">&lt;</a><a href="https://webmasterwebring.netlify.app"><img src="https://file.garden/ZrZSgsrYfQXsO7QH/ww/btn.png" width="88" height="31"></a><a href="https://webmasterwebring.netlify.app?AlexK-random" style="font-size: 1.5rem;">?</a> <a href="https://webmasterwebring.netlify.app?AlexK-next">&gt;</a></div>
 </div>
 
 
