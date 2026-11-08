@@ -15,7 +15,6 @@ layout: basiclayout
   <a href="https://webring.rewildtheweb.org/next?from=alexkuzel.github.io" target="_top"><img src="https://rewildtheweb.org/webring-arrow-next-mushroom-green-bubble.png" alt="next site in the rewild the web webring" width="17" height="31" style="image-rendering:pixelated;"></a>
 
 </div>
-
 <div class="center">
   <map name="noaisys1widget">
 <area href="https://baccyflap.com/noai" target="_blank" shape="rect" coords="0,0,341,38" alt="no ai webring" title="no ai webring">
@@ -24,6 +23,10 @@ layout: basiclayout
 <area href="https://baccyflap.com/noai/?nxt&s=axk" target="_top" shape="rect" coords="237,53,308,76" alt="next" title="next">
 </map>
 <img usemap="#noaisys1widget" src="https://baccyflap.com/noai/sys1widget.gif" alt="an 80s Macintosh System 1 style black-and-white dialog box titled 'The No AI Webring' with a little icon showing a dead computer. beside it are three clickable buttons, labeled Previous, Random and Next">
+</div>
+<link rel="stylesheet" type="text/css" href="https://file.garden/ZrZSgsrYfQXsO7QH/ww/webmasterwebring.css">
+<div class="center">
+  <div id="webmasteringbtn"><a href="https://webmasterwebring.netlify.app?YOURSLUG-previous">&lt;</a><a href="https://webmasterwebring.netlify.app"><img src="https://file.garden/ZrZSgsrYfQXsO7QH/ww/btn.png" width="88" height="31"></a><a href="https://webmasterwebring.netlify.app?YOURSLUG-random" style="font-size: 1.5rem;">?</a> <a href="https://webmasterwebring.netlify.app?YOURSLUG-next">&gt;</a></div>
 </div>
 
 
