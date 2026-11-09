@@ -59,13 +59,19 @@ crossorigin="anonymous">
             <a class="nav-link" href="https://alexkuzel.github.io/pages/tabletop">Tabletop</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link" href="https://alexkuzel.github.io/pages/now">Now</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link" href="https://alexkuzel.github.io/pages/misc">Webrings and Guestbook</a>
           </li>
           <li class="nav-item">
-            <button onclick="myFunction()">Toggle dark mode</button>
+            <button onclick="myFunction('bright')">Bright Mode</button>
           </li>
           <li class="nav-item">
-            <button onclick="myFunction()">Funky Mode? (WIP)</button>
+            <button onclick="myFunction('dark')">Dark mode</button>
+          </li>
+          <li class="nav-item">
+            <button onclick="myFunction('funky')">Funky Mode? (WIP)</button>
           </li>
         </ul>
     </div>
@@ -73,23 +79,47 @@ crossorigin="anonymous">
 
       {{ content }}
 <script>
-function myFunction() {
-   var element = document.body;
-   element.classList.toggle("dark-mode");
-   if(document.body.classList.contains('dark-mode')){ //when the body has the class 'dark' currently
-        localStorage.setItem('darkMode', 'enabled'); //store this data if dark mode is on
-        document.body.classList.replace("hr", "hr.dark")
+function myFunction(mode) {
+   if(mode == 'bright'){
+    document.body.classList.remove("dark-mode");
+    document.body.classList.remove("funky-mode");
+    localStorage.setItem('mode', 'bright')
+   }
+   else if (mode == 'dark') {
+    document.body.classList.add("dark-mode");
+    document.body.classList.remove("funky-mode");
+    localStorage.setItem('mode', 'dark')
+   }
+   else if (mode == 'funky') {
+    document.body.classList.remove("dark-mode");
+    document.body.classList.add("funky-mode");
+    localStorage.setItem('mode', 'funky')
+   }
+   
+   /*if(document.body.classList.contains('dark-mode')){ //when the body has the class 'dark' currently
+        localStorage.setItem('mode', 'enabled'); //store this data if dark mode is on
+        //document.body.classList.replace("hr", "hr.dark")
     }else{
-        localStorage.setItem('darkMode', 'disabled'); //store this data if dark mode is off
-        document.body.classList.replace("hr.dark", "hr")
-    }
+        localStorage.setItem('mode', 'disabled'); //store this data if dark mode is off
+        //document.body.classList.replace("hr.dark", "hr")
+    } */
 }
 
-if(localStorage.getItem('darkMode') == 'enabled'){
-    document.body.classList.toggle('dark-mode');
+if(localStorage.getItem('mode') == 'bright'){
+    document.body.classList.remove("dark-mode");
+    document.body.classList.remove("funky-mode");
     //switchButton.classList.toggle('active');
     //workContainer.classList.toggle('dark');
 }
+else if (localStorage.getItem('mode') == 'dark') {
+  document.body.classList.add("dark-mode");
+  document.body.classList.remove("funky-mode");
+}
+else if (localStorage.getItem('mode') == 'funky') {
+  document.body.classList.remove("dark-mode");
+  document.body.classList.add("funky-mode");
+}
+
 </script>
   </body>
 </html>
