@@ -21,6 +21,11 @@ body {
   font-family: 'Lucida Sans', cursive;
 }
 
+.funky-mode a a:link {
+  color: yellow;
+
+}
+
 hr.dark {
   border: 1px solid white;
 }

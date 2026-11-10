@@ -7,19 +7,18 @@ layout: basiclayout
 *Published: November 10, 2026.*
 
 ## <a href="#head1" id="header1">Table of Contents</a>
-<ul>
-<li><a href="#header1" id="head1">Table of Contents</a></li>
-<li><a href="#header2" id="head2">So What Actually Was Murder at Loveland Harbor?</a></li>
-<li><a href="#header3" id="head3">Seems Straightforward Enough, Why Are You Being Such a Nerd About This?</a></li>
-<li><a href="#header4" id="head4">How I Did This</a></li>
-<li><a href="#header5" id="head5">Quests and Mysteries</a></li>
-<li><a href="#header6" id="head6">What I Did That Totally Rocked</a></li>
-<li><a href="#header7" id="head7">Bad Ideas I Killed</a></li>
-<li><a href="#header8" id="head8">Balls I Dropped (Bad Ideas That Survived)</a></li>
-<li><a href="#header9" id="head9">What I Learned About Interactive Media And My Friends And Isolation Is…</a></li>
-<li><a href="#header10" id="head10">Lore and Spoilers</a></li>
-<li><a href="#header11" id="head11">Raw Materials</a></li>
-<li><a href="#header12" id="head12">Footnotes</a></li>
+<div><a href="#header1" id="head1">Table of Contents</a></div>
+<div><a href="#header2" id="head2">So What Actually Was Murder at Loveland Harbor?</a></div>
+<div><a href="#header3" id="head3">Seems Straightforward Enough, Why Are You Being Such a Nerd About This?</a></div>
+<div><a href="#header4" id="head4">How I Did This</a></div>
+<div><a href="#header5" id="head5">Quests and Mysteries</a></div>
+<div><a href="#header6" id="head6">What I Did That Totally Rocked</a></div>
+<div><a href="#header7" id="head7">Bad Ideas I Killed</a></div>
+<div><a href="#header8" id="head8">Balls I Dropped (Bad Ideas That Survived)</a></div>
+<div><a href="#header9" id="head9">What I Learned About Interactive Media And My Friends And Isolation Is…</a></div>
+<div><a href="#header10" id="head10">Lore and Spoilers</a></div>
+<div><a href="#header11" id="head11">Raw Materials</a></div>
+<div><a href="#header12" id="head12">Footnotes</a></div>
 
 
 Murder at Loveland Harbor was a roleplaying game/murder mystery/scavenger hunt I created for my 2026 Halloween Party alongside my short film, [Posthuman Lament](https://youtu.be/qpin5VvNtcA). It was by far the most ambitious and well-produced thing I’ve ever made, but I don’t think it will ever be able to be experienced again, for myself or anyone reading this. I say this not to gatekeep or mourn an ephemeral piece of art, just that the initial idea for this post was to explain how you could set up this game/event, and I’m realizing the tone will actually be explaining how you won’t (or shouldn’t) run it.
@@ -195,7 +194,7 @@ An now for everything I made for Murder at Loveland Harbor. These are only finis
 
 I’m dubious about the long-term archival of shared Google docs, so I’ve downloaded things as PDFs and put them in my Github repo (which feels less sketchy than a button on my site to download a mysterious .zip). If for whatever reason you want the actual docs and slides, let me know.
 
-Resources :) (link pending)
+[Resources :)](https://github.com/alexkuzel/alexkuzel.github.io/tree/main/assets/pdfs/MLH)
 
 This was a behemoth of a post and I still have more to say. Thank you for reading!
 
