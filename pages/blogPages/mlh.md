@@ -7,18 +7,18 @@ layout: basiclayout
 *Published: November 10, 2026.*
 
 ## <a href="#head1" id="header1">Table of Contents</a>
-<div><a href="#header1" id="head1">Table of Contents</a></div>
-<div><a href="#header2" id="head2">So What Actually Was Murder at Loveland Harbor?</a></div>
-<div><a href="#header3" id="head3">Seems Straightforward Enough, Why Are You Being Such a Nerd About This?</a></div>
-<div><a href="#header4" id="head4">How I Did This</a></div>
-<div><a href="#header5" id="head5">Quests and Mysteries</a></div>
-<div><a href="#header6" id="head6">What I Did That Totally Rocked</a></div>
-<div><a href="#header7" id="head7">Bad Ideas I Killed</a></div>
-<div><a href="#header8" id="head8">Balls I Dropped (Bad Ideas That Survived)</a></div>
-<div><a href="#header9" id="head9">What I Learned About Interactive Media And My Friends And Isolation Is…</a></div>
-<div><a href="#header10" id="head10">Lore and Spoilers</a></div>
-<div><a href="#header11" id="head11">Raw Materials</a></div>
-<div><a href="#header12" id="head12">Footnotes</a></div>
+<div><p><a href="#header1" id="head1">Table of Contents</a></p></div>
+<div><p><a href="#header2" id="head2">So What Actually Was Murder at Loveland Harbor?</a></p></div>
+<div><p><a href="#header3" id="head3">"Seems Straightforward Enough, Why Are You Being Such a Nerd About This?"</a></p></div>
+<div><p><a href="#header4" id="head4">How I Did This</a></p></div>
+<div><p><a href="#header5" id="head5">Quests and Mysteries</a></p></div>
+<div><p><a href="#header6" id="head6">What I Did That Totally Rocked</a></p></div>
+<div><p><a href="#header7" id="head7">Bad Ideas I Killed</a></p></div>
+<div><p><a href="#header8" id="head8">Balls I Dropped (Bad Ideas That Survived)</a></p></div>
+<div><p><a href="#header9" id="head9">What I Learned About Interactive Media And My Friends And Isolation Is…</a></p></div>
+<div><p><a href="#header10" id="head10">Lore and Spoilers</a></p></div>
+<div><p><a href="#header11" id="head11">Raw Materials</a></p></div>
+<div><p><a href="#header12" id="head12">Footnotes</a></p></div>
 
 
 Murder at Loveland Harbor was a roleplaying game/murder mystery/scavenger hunt I created for my 2026 Halloween Party alongside my short film, [Posthuman Lament](https://youtu.be/qpin5VvNtcA). It was by far the most ambitious and well-produced thing I’ve ever made, but I don’t think it will ever be able to be experienced again, for myself or anyone reading this. I say this not to gatekeep or mourn an ephemeral piece of art, just that the initial idea for this post was to explain how you could set up this game/event, and I’m realizing the tone will actually be explaining how you won’t (or shouldn’t) run it.
@@ -34,7 +34,7 @@ So, if you were a player, your experience of Murder at Loveland Harbor was somet
 
 As for the narrative, I did a kind of silly amount of worldbuilding for this. The general premise is that Loveland Harbor is a (fictional) miniscule island in coastal Maine, which has just been settled by a group of forum-users obsessed with the (fictional) TV show Black Sight. In a few short weeks, food supplies dwindle and tensions rise until October 30th 2026, when the corpse of the forum’s ringleader (the party-host) is discovered. Hilarity ensues.
 
-## <a href="#head3" id="header3">Seems Straightforward Enough, Why Are You Being Such a Nerd About This?</a>
+## <a href="#head3" id="header3">"Seems Straightforward Enough, Why Are You Being Such a Nerd About This?"</a>
 Listen, you need to be *insane* to set this up and run it for your friends. If you were to download the attached files containing all Clues, character sheets, puzzles etc., much of the narrative groundwork would be laid for you, but you would still need to spend several hours cutting and pasting, figure out where to hide dozens and dozens of Clues, not to mention purchasing supplemental materials including but not limited to, ~40 manilla envelopes, a UV flashlight, magnifying glass, padlocks, traditional “key” locks, puzzle boxes, and a dozen or so nametags.
 
 In a perfect world, some game company reaches out to me and does a production run of Murder at Loveland Harbor, so that you, the reader, could buy a fully assembled kit, and be much closer to opening a box and playing. That will never happen though, and maybe that’s for the best. As it stands, I think one of the strongest points of this event was the fact that everything was handmade by myself, I knew the ins-and-outs of all the details, and I’d like to think the painstaking love put into this project was felt by the participants, something you wouldn’t necessarily get from buying a game off the shelf. If you’re crazy enough to want to do this, I think the extra effort to create your own weird amalgamation of games is time well spent that will be appreciated by both you and your prospective party-guests, which is why I’m generally trying to walk you through the process.

@@ -8,6 +8,7 @@ Here are some things I've done or thought about in regards to tabletop games (pr
 
 ## Murder at Loveland Harbor
 *Published November 10, 2026.*
+
 Murder at Loveland Harbor was a Frankenstien's Monster of a "game" I created for my 2026 Halloween Party. It was by far the most ambitious and well-produced thing I’ve ever made, but I don't think it can be properly published. I talk a lot about my design process, the worldbuilding, how you could (but maybe shouldn't) make something like it, and all the mistakes I made along the way, with the full set of resources created.
 
 Because this is such a massive post, you can read [the full thing (with many images!) on my blog](https://alexkuzel.github.io/pages/blogPages/mlh)
