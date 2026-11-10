@@ -21,7 +21,7 @@ body {
   font-family: 'Lucida Sans', cursive;
 }
 
-.funky-mode a:link {
+a.funky-mode {
   color: yellow;
 
 }
