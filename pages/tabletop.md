@@ -6,9 +6,17 @@ layout: basiclayout
 
 Here are some things I've done or thought about in regards to tabletop games (primarily TTRPGs, but wargaming as well).
 
-## Blast 'Em! (coming soon)
+## Murder at Loveland Harbor
+*Published November 10, 2026.*
+Murder at Loveland Harbor was a Frankenstien's Monster of a "game" I created for my 2026 Halloween Party. It was by far the most ambitious and well-produced thing I’ve ever made, but I don't think it can be properly published. I talk a lot about my design process, the worldbuilding, how you could (but maybe shouldn't) make something like it, and all the mistakes I made along the way, with the full set of resources created.
+
+Because this is such a massive post, you can read [the full thing (with many images!) on my blog](https://alexkuzel.github.io/pages/blogPages/mlh)
+
+## Blast 'Em! (coming soon?)
 
 I just worked on a tiny wargame during a 24-hour (in theory) game jam. I am in the midst of getting a zine of it put on itch.io so you can buy it with real money.
+
+11/10/26 - I swear I will release this I just need to playtest it one more time but am busy :(
 
 ## Slugblaster Retrospective
 *Published August 18, 2025.*

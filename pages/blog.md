@@ -5,6 +5,9 @@ layout: basiclayout
 
 # Blog
 
+[Murder at Loveland Harbor](https://alexkuzel.github.io/pages/blogPages/mlh)
+*Published: November 10, 2026.*
+
 [Fear and Loathing in Orlando](https://alexkuzel.github.io/pages/blogPages/orlando)
 *Published: March 5, 2026.*
 

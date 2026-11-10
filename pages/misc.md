@@ -5,9 +5,10 @@ layout: basiclayout
 # Webrings and Guestbook
 
 ## Cool Websites You Will Visit
-*Do you have a personal site? Let me know and I'll include it here!*
 
 [Ben Brown has an Amazing Website](https://bendoesai.github.io/)
+
+[Celia is my webring neighbor! Some great writing and aspiritional web design to be found here](https://celia.works)
 
 <div style="display:inline-flex;line-height:0;">
   <a href="https://webring.rewildtheweb.org/prev?from=alexkuzel.github.io" target="_top"><img src="https://rewildtheweb.org/webring-arrow-prev-mushroom-green-bubble.png" alt="previous site in the rewild the web webring" width="17" height="31" style="image-rendering:pixelated;"></a>
