@@ -7,18 +7,18 @@ layout: basiclayout
 *Published: November 10, 2026.*
 
 ## <a href="#head1" id="header1">Table of Contents</a>
-<div><p><a href="#header1" id="head1">Table of Contents</a></p></div>
-<div><p><a href="#header2" id="head2">So What Actually Was Murder at Loveland Harbor?</a></p></div>
-<div><p><a href="#header3" id="head3">"Seems Straightforward Enough, Why Are You Being Such a Nerd About This?"</a></p></div>
-<div><p><a href="#header4" id="head4">How I Did This</a></p></div>
-<div><p><a href="#header5" id="head5">Quests and Mysteries</a></p></div>
-<div><p><a href="#header6" id="head6">What I Did That Totally Rocked</a></p></div>
-<div><p><a href="#header7" id="head7">Bad Ideas I Killed</a></p></div>
-<div><p><a href="#header8" id="head8">Balls I Dropped (Bad Ideas That Survived)</a></p></div>
-<div><p><a href="#header9" id="head9">What I Learned About Interactive Media And My Friends And Isolation Is…</a></p></div>
-<div><p><a href="#header10" id="head10">Lore and Spoilers</a></p></div>
-<div><p><a href="#header11" id="head11">Raw Materials</a></p></div>
-<div><p><a href="#header12" id="head12">Footnotes</a></p></div>
+<div><p style="font-size:1rem; line-height:1.5rem;"><a href="#header1" id="head1">Table of Contents</a></p></div>
+<div><p style="font-size:1rem; line-height:1.5rem;"><a href="#header2" id="head2">So What Actually Was Murder at Loveland Harbor?</a></p></div>
+<div><p style="font-size:1rem; line-height:1.5rem;"><a href="#header3" id="head3">"Seems Straightforward Enough, Why Are You Being Such a Nerd About This?"</a></p></div>
+<div><p style="font-size:1rem; line-height:1.5rem;"><a href="#header4" id="head4">How I Did This</a></p></div>
+<div><p style="font-size:1rem; line-height:1.5rem;"><a href="#header5" id="head5">Quests and Mysteries</a></p></div>
+<div><p style="font-size:1rem; line-height:1.5rem;"><a href="#header6" id="head6">What I Did That Totally Rocked</a></p></div>
+<div><p style="font-size:1rem; line-height:1.5rem;"><a href="#header7" id="head7">Bad Ideas I Killed</a></p></div>
+<div><p style="font-size:1rem; line-height:1.5rem;"><a href="#header8" id="head8">Balls I Dropped (Bad Ideas That Survived)</a></p></div>
+<div><p style="font-size:1rem; line-height:1.5rem;"><a href="#header9" id="head9">What I Learned About Interactive Media And My Friends And Isolation Is…</a></p></div>
+<div><p style="font-size:1rem; line-height:1.5rem;"><a href="#header10" id="head10">Lore and Spoilers</a></p></div>
+<div><p style="font-size:1rem; line-height:1.5rem;"><a href="#header11" id="head11">Raw Materials</a></p></div>
+<div><p style="font-size:1rem; line-height:1.5rem;"><a href="#header12" id="head12">Footnotes</a></p></div>
 
 
 Murder at Loveland Harbor was a roleplaying game/murder mystery/scavenger hunt I created for my 2026 Halloween Party alongside my short film, [Posthuman Lament](https://youtu.be/qpin5VvNtcA). It was by far the most ambitious and well-produced thing I’ve ever made, but I don’t think it will ever be able to be experienced again, for myself or anyone reading this. I say this not to gatekeep or mourn an ephemeral piece of art, just that the initial idea for this post was to explain how you could set up this game/event, and I’m realizing the tone will actually be explaining how you won’t (or shouldn’t) run it.

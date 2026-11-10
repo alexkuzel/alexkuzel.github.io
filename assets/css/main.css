@@ -21,7 +21,7 @@ body {
   font-family: 'Lucida Sans', cursive;
 }
 
-a.funky-mode {
+body.funky-mode a:visited {
   color: yellow;
 
 }
@@ -113,6 +113,6 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 200px;
+  /*height: 200px;*/
   /*border: 3px solid green;  */
 }
