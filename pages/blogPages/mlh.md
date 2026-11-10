@@ -7,19 +7,19 @@ layout: basiclayout
 *Published: November 10, 2026.*
 
 ## <a href="#head1" id="header1">Table of Contents</a>
-
-<a href="#header1" id="head1">Table of Contents</a>
-<a href="#header2" id="head2">So What Actually Was Murder at Loveland Harbor?</a>
-<a href="#header3" id="head3">Seems Straightforward Enough, Why Are You Being Such a Nerd About This?</a>
-<a href="#header4" id="head4">How I Did This</a>
-<a href="#header5" id="head5">Quests and Mysteries</a>
-<a href="#header6" id="head6">What I Did That Totally Rocked</a>
-<a href="#header7" id="head7">Bad Ideas I Killed</a>
-<a href="#header8" id="head8">Balls I Dropped (Bad Ideas That Survived)</a>
-<a href="#header9" id="head9">What I Learned About Interactive Media And My Friends And Isolation Is…</a>
-<a href="#header10" id="head10">Lore and Spoilers</a>
-<a href="#header11" id="head11">Raw Materials</a>
-<a href="#header12" id="head12">Footnotes</a>
+<ul>
+<li><a href="#header1" id="head1">Table of Contents</a></li>
+<li><a href="#header2" id="head2">So What Actually Was Murder at Loveland Harbor?</a></li>
+<li><a href="#header3" id="head3">Seems Straightforward Enough, Why Are You Being Such a Nerd About This?</a></li>
+<li><a href="#header4" id="head4">How I Did This</a></li>
+<li><a href="#header5" id="head5">Quests and Mysteries</a></li>
+<li><a href="#header6" id="head6">What I Did That Totally Rocked</a></li>
+<li><a href="#header7" id="head7">Bad Ideas I Killed</a></li>
+<li><a href="#header8" id="head8">Balls I Dropped (Bad Ideas That Survived)</a></li>
+<li><a href="#header9" id="head9">What I Learned About Interactive Media And My Friends And Isolation Is…</a></li>
+<li><a href="#header10" id="head10">Lore and Spoilers</a></li>
+<li><a href="#header11" id="head11">Raw Materials</a></li>
+<li><a href="#header12" id="head12">Footnotes</a></li>
 
 
 Murder at Loveland Harbor was a roleplaying game/murder mystery/scavenger hunt I created for my 2026 Halloween Party alongside my short film, [Posthuman Lament](https://youtu.be/qpin5VvNtcA). It was by far the most ambitious and well-produced thing I’ve ever made, but I don’t think it will ever be able to be experienced again, for myself or anyone reading this. I say this not to gatekeep or mourn an ephemeral piece of art, just that the initial idea for this post was to explain how you could set up this game/event, and I’m realizing the tone will actually be explaining how you won’t (or shouldn’t) run it.
@@ -61,7 +61,7 @@ Enough theory, here’s some examples of quests I wrote that were great. One pla
 
 “Mysteries” were my unofficial way to refer to information that someone had to be able to figure out. If a player had an incentive to learn something it was a mystery that needed Clues written to support. I began by listing all character’s primary objective, secondary objective, and quests as discrete pieces of information. Here’s a simple example (spoilers!), that the “Peptomancer” character is stealing people’s sandwiches. It’s a super tiny side-mystery, really only relevant for anyone who wants another accusation to lob at someone:
 
-<img src="/assets/img/tabletop/MLH/mystery.jpg" alt="a mystery from my google docs" width="50%">
+<img src="/assets/img/tabletop/MLH/mystery.png" alt="a mystery from my google docs" width="50%">
 
 We’ve got the main bullet with the mystery, and 3 sub-bullets that when put together, tell you the main bullet’s “answer”. I can then go on to write a Clue for each sub-bullet that essentially re-words the sub-bullet in-universe.
 What’s fun about this approach in theory (didn’t happen too much in practice) was that these mysteries could be nested recursively for more in-depth mysteries. Perhaps there’s two separate Clues that need to be combined for you to reach the conclusion that Peptomancer spends a lot of time in the village.
@@ -81,7 +81,7 @@ These two weeks of chaos also saw me fixing some major structural issues that I 
 
 And thats… sort of it? There are game mechanics I haven’t mentioned but aren’t terribly relevant to the design process. Everything was sealed up and hidden around 2 weeks before Halloween, and Katrina did a wonderful job ignoring anything she accidentally stumbled across in that time. Generally speaking, things went super well at Halloween and I couldn’t have asked for a better result given the fact that this wasn’t playtested. 
 
-<img src="/assets/img/tabletop/MLH/iceCube.png" alt="One cold Clue" width="50%">
+<img src="/assets/img/tabletop/MLH/iceCube.jpg" alt="One cold Clue" width="50%">
 <p style="text-align: center; font-size:1.2rem;"><i>Clue in an ice cube. I'm pretty proud of this one.</i></p>
 
 
@@ -143,7 +143,7 @@ Players had also told me after the game, that because their expectations going i
 There was also a box of Dossiers, which were yet another envelope for each player to hold the evidence used in their final case. The idea was that these Dossiers could be a safe place for a player’s collected Clues and Testimony, safe from the meddling of other players, but for better or worse<a href="#note5" id="number5"><span class="up">[5]</span></a>, there weren't enough offensive interactions to make this “protected zone” necessary.
 Making a game like this be fully co-op would need to be one of the first decisions made, and the classical murder mystery theming would probably need to be rethought. A lot would change but if for whatever reason I made another one of these, it would be a purely cooperative, escape room type thing.
 
-<img src="/assets/img/tabletop/MLH/boxes.png" alt="Dossier box, Evidence Locker and Public Information." width="50%">
+<img src="/assets/img/tabletop/MLH/boxes.jpg" alt="Dossier box, Evidence Locker and Public Information." width="50%">
 <p style="text-align: center; font-size:1.2rem;"><i>The other two containers did serve their purpose well.</i></p>
 
 <b>Goofs and Bloopers.</b> There were relatively minor amounts of genuine mistakes on my part; I counted one typo in a Clue, one lockbox I forgot to hide anything of value in (that was never opened to begin with), and two Clues that I forgot to give a special ID which hinted at the secret contained within (though the secret was still there to the discerning eye). If you download the game materials, those have since been fixed, or at least acknowledged. Leading up to Halloween, I was so positive that I had left a huge bug in Murder at Loveland Harbor that would make the game entirely trivial or totally impossible, and the fact that these errors were as bad as it got baffles me.
@@ -176,13 +176,15 @@ Around a year prior to the main events, Loveland Harbor is bequeathed to EvilGru
 <p style="text-align: center; font-size:1.2rem;"><i>A clue with UV markings revealing a hidden message!</i></p>
 
 October 2026. EvilGrungus has finished with the preparations of Loveland Harbor, having constructed “The Lab”, a flimsy base of operations that’s the closest thing to a real building on the island, as well as having further developed the underground chambers, where magickal instruments are stored and transported as needed. The rest of our cast arrives to the island in short order, and quickly discovers that paradise is not what was advertised, yet struggles forward:
-- _pyramidAura444, a professor hoping to discover new species on the island, secure funding to research it further, and kick everyone else out.
-- RodentGaming49, who sees this cult for what it is and starts recording everything to gather material for a documentary.
-- cobra_operative, who has no history with the others aside from designing the Terrestrials website, and hopes to gather proof of the many concurrent scams in a misguided attempt to secure a job at the IRS.
-- MarkWahlbergOfficial, an amateur mystery novelist who is sick and tired of the island until a murder takes place.
-- Peptomancer, a jack-of-all-trades with shifting loyalties and an extensive hamster terrarium abandoned to join the chaos.
-- everythingisfine, a belligerent Terrestrial focused on causing the most damage and getting as many people arrested as possible when everything goes down.
-- Plunger9999 and their identical twin 36754332, more on them in a bit.
+
+\- _pyramidAura444, a professor hoping to discover new species on the island, secure funding to research it further, and kick everyone else out.
+\- RodentGaming49, who sees this cult for what it is and starts recording everything to gather material for a documentary.
+\- cobra_operative, who has no history with the others aside from designing the Terrestrials website, and hopes to gather proof of the many concurrent scams in a misguided attempt to secure a job at the IRS.
+\- MarkWahlbergOfficial, an amateur mystery novelist who is sick and tired of the island until a murder takes place.
+\- Peptomancer, a jack-of-all-trades with shifting loyalties and an extensive hamster terrarium abandoned to join the chaos.
+\- everythingisfine, a belligerent Terrestrial focused on causing the most damage and getting as many people arrested as possible when everything goes down.
+\- Plunger9999 and their identical twin 36754332, more on them in a bit.
+
 
 Food supplies dwindle and tensions rise almost immediately, with everything coming to a head on October 30th. EvilGrungus has planned a ritual for the evening mirroring the blood sacrifice of Captain Roland centuries ago, to harness the power of the froglike monster slumbering on the island, which they’ve named “Lord Ordresh” in yet another reference to Black Sight. b0mb_thr3at chooses today to enact their vengeance upon EvilGrungus, poisoning a thermos of coffee, which is never drunk, absolving b0mb_thr3at of the murder they intended to commit. Rather, the little dictator of the island is struck down by Plunger9999, who had correctly suspected that something terrible would occur that night, and attacked EvilGrungus with a large stone which was then cast into the sea. The body remained undetected for some time in the island’s old village, until gunshots were heard, which most at first assumed were the origin of the murder. In reality, 36754332, who had consumed a dangerous dose of a local “delicacy” known as Pigeon Liquor, had broken into EvilGrungus’ lab to steal a firearm and fired shots at a massive abomination crawling out of the Harbor’s central pond, which could have been a hallucination but was in fact quite real, and promptly passed out again.
 
@@ -199,11 +201,11 @@ This was a behemoth of a post and I still have more to say. Thank you for readin
 
 ## <a href="#head12" id="header12">Footnotes</a>
 
-<a href="#number1" id="note1">1. Listing the components exhaustively so you realize how insane I was about this.</a></div>
-<a href="#number2" id="note2">2. Yes I am exhaustivley defining my terms used, I can't help it. This post was either going to make sense, or be short, so I went with the former. Hopefully.</a></div>
-<a href="#number3" id="note3">3. Including but not limited to having a tiny envelope to be opened upon your death explaining how the Ghost rules work. What was I thinking.</a></div>
-<a href="#number4" id="note4">4. Oh, you weren’t at the party? Uh yeah actually nevermind it was perfect and such a transcendent experience you just just had to have been there to know, y’know?</a></div>
-<a href="#number5" id="note5">5. Better. I’m so glad this wasn’t needed actually.</a></div>
-<a href="#number6" id="note6">6. Not an exaggeration, 2 weeks after its all said and done, I think I could still recite every character’s quests, objectives and Testimony.</a></div>
-<a href="#number7" id="note7">7. I talk more about this and related topics in the Posthuman Lament bonus features.</a></div>
-<a href="#number8" id="note8">8. Real guy, fake lore.</a></div>
+<div><a href="#number1" id="note1">1. Listing the components exhaustively so you realize how insane I was about this.</a></div>
+<div><a href="#number2" id="note2">2. Yes I am exhaustivley defining my terms used, I can't help it. This post was either going to make sense, or be short, so I went with the former. Hopefully.</a></div>
+<div><a href="#number3" id="note3">3. Including but not limited to having a tiny envelope to be opened upon your death explaining how the Ghost rules work. What was I thinking.</a></div>
+<div><a href="#number4" id="note4">4. Oh, you weren’t at the party? Uh yeah actually nevermind it was perfect and such a transcendent experience you just just had to have been there to know, y’know?</a></div>
+<div><a href="#number5" id="note5">5. Better. I’m so glad this wasn’t needed actually.</a></div>
+<div><a href="#number6" id="note6">6. Not an exaggeration, 2 weeks after its all said and done, I think I could still recite every character’s quests, objectives and Testimony.</a></div>
+<div><a href="#number7" id="note7">7. I talk more about this and related topics in the Posthuman Lament bonus features.</a></div>
+<div><a href="#number8" id="note8">8. Real guy, fake lore.</a></div>

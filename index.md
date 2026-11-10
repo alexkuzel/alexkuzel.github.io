@@ -39,4 +39,6 @@ Please join my newsletter, it's good I promise! Signup is still via [My Old Site
 
 ### References for Computer People
 
+[Github repo](https://github.com/alexkuzel/alexkuzel.github.io)
+
 Template for my website is based off of this [minimal Jekyll theme](https://github.com/pages-themes/minimal).
