@@ -6,32 +6,32 @@ body {
     padding-top: 100px;
     padding-bottom: 100px; /*Note, lets add a site foote */
     font-family: "Noto Serif", Garamond, Georgia, serif;
-    background-color: white;
-    color: black;
+    background-color: rgb(255, 245, 224);
+    color: rgb(46, 46, 46);
 }
 
 .dark-mode {
-  background-color: black;
-  color: white;
+  background-color: rgb(12, 39, 0);
+  color: rgb(233, 255, 254);
 }
 
 .funky-mode {
   background-color: rgb(39, 39, 195);
   color: rgb(122, 255, 137);
-  font-family: 'Lucida Sans', cursive;
+  font-family: 'Lucida Sans', cursive; 
 }
 
 body.funky-mode a:hover {
-  color: hotpink;
+  background-color: hotpink;
 }
 
 body.funky-mode a:link {
   color: yellow;
 }
 
-hr.dark {
+/*hr.dark {
   border: 1px solid white;
-}
+}*/
 
 .column {
     display: flex;
@@ -97,6 +97,14 @@ img {
     margin-left: auto;
     margin-right: auto;
     max-width: 100%;
+}
+
+body.funky-mode img {
+    transition: transform .2s;
+}
+
+body.funky-mode img:hover {
+    transform: scale(1.5);
 }
 
 .row {
