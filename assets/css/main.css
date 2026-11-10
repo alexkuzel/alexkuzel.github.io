@@ -5,7 +5,24 @@ html {
 body {
     padding-top: 100px;
     padding-bottom: 100px; /*Note, lets add a site foote */
-    font-family: "Noto Serif", Garamond, Arial, serif;
+    font-family: "Noto Serif", Garamond, Georgia, serif;
+    background-color: white;
+    color: black;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+.funky-mode {
+  background-color: rgb(39, 39, 195);
+  color: rgb(122, 255, 137);
+  font-family: 'Lucida Sans', cursive;
+}
+
+hr.dark {
+  border: 1px solid white;
 }
 
 .column {
@@ -18,7 +35,7 @@ body {
 }
 
 hr {
-  border: 1px solid black;
+  border: 1px solid;
   margin-left: 25%;
     margin-right: 25%;
 }
@@ -51,9 +68,9 @@ h3 {
 p {
     font-size: 1.6rem;
     line-height: 2rem;
-    color:black;
-    padding-left: 15%;
-    padding-right: 15%;
+    /*color:black;*/
+    padding-left: 10%;
+    padding-right: 10%;
     max-width: 100rem;
     padding-bottom: 10px;
 }
@@ -84,4 +101,12 @@ img {
 .column_img {
   flex: 20%;
   padding: 2%;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  /*border: 3px solid green;  */
 }

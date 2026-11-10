@@ -16,7 +16,7 @@ Thank you for visiting my site! I just released my short film, Posthuman Lament.
 
 I'm Alex, welcome to my humble website! This is a portfolio site collecting all my weird little projects.
 
-I'm an incredibly offline person, and don't have much internet presence outside of this website. I write film and book reviews on [Letterboxd](https://letterboxd.com/grungus/) and [Goodreads](https://www.goodreads.com/user/show/164570627-alex-kuzel) respectivley, but that's pretty much it. Because all of my media analysis (and some quite good analysis at times, I'd like to think) is on those sites, my blog writing here is more essay-oriented.
+I'm an incredibly offline person, and don't have much internet presence outside of this website. I write film and book reviews on [Letterboxd](https://boxd.it/4mZW7) and [Goodreads](https://www.goodreads.com/user/show/164570627-alex-kuzel) respectivley, but that's pretty much it. Because all of my media analysis (and some quite good analysis at times, I'd like to think) is on those sites, my blog writing here is more essay-oriented.
 
 P.S. Have you signed [the Guestbook?](https://alexkuzel.github.io/pages/misc)
 
