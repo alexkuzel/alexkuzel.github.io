@@ -10,6 +10,8 @@ layout: basiclayout
 
 [Celia is my webring neighbor! Some great writing and aspiritional web design to be found here](https://celia.works)
 
+## Webrings
+
 <div class="center">
   <a href="https://webring.rewildtheweb.org/prev?from=alexkuzel.github.io" target="_top"><img src="https://rewildtheweb.org/webring-arrow-prev-mushroom-green-bubble.png" alt="previous site in the rewild the web webring" width="17" height="31" style="image-rendering:pixelated;"></a>
   <a href="https://rewildtheweb.org/webring/" target="_top"><img src="https://rewildtheweb.org/webring-badge-mushroom-green-bubble.png" alt="rewild the web webring" width="88" height="31" style="image-rendering:pixelated;"></a>
