@@ -2,6 +2,8 @@
 layout: basiclayout
 ---
 
+<p style="text-align: center; font-size:1.2rem;"><i>[I am still working on mobile formatting, please be patient thanks!]</i></p>
+
 # Posthuman Lament
 
 Thank you for visiting my site! I just released my short film, Posthuman Lament.
