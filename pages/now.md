@@ -10,6 +10,6 @@ Words can't properly express how healing it was to my soul to see all my friends
 
 Now that I have no enormous projects looming over me I feel that it is crucial I start learning to draw. It is time. Not being able to draw is my largest insecurity, and the main thing that makes me think I am a fraud. Also as long as I'm updating my website I should start on making a tiny Godot game to embed in my site.
 
-Newsletter send. Murder at Loveland Harbor blog posted. All is right in the world.
+Newsletter sent. Murder at Loveland Harbor blog posted. All is right in the world.
 
 11/10/26
