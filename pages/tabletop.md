@@ -13,6 +13,18 @@ Murder at Loveland Harbor was a Frankenstien's Monster of a "game" I created for
 
 Because this is such a massive post, you can read [the full thing (with many images!) on my blog](https://alexkuzel.github.io/pages/blogPages/mlh)
 
+<div class="row">
+  <div class="column_img">
+    <img src="/assets/img/tabletop/MLH/codeWheel.jpg" alt="MLH Code wheel" style="width:100%">
+  </div>
+  <div class="column_img">
+    <img src="/assets/img/tabletop/MLH/redfilter.jpg" alt="MLH Red Filter" style="width:100%">
+  </div>
+  <div class="column_img">
+    <img src="/assets/img/tabletop/MLH/sigil.jpg" alt="MLH Sigil" style="width:100%">
+  </div>
+</div>
+
 ## Blast 'Em! (coming soon?)
 
 I just worked on a tiny wargame during a 24-hour (in theory) game jam. I am in the midst of getting a zine of it put on itch.io so you can buy it with real money.

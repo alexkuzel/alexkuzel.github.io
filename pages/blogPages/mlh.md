@@ -23,6 +23,8 @@ layout: basiclayout
 
 Murder at Loveland Harbor was a roleplaying game/murder mystery/scavenger hunt I created for my 2026 Halloween Party alongside my short film, [Posthuman Lament](https://youtu.be/qpin5VvNtcA). It was by far the most ambitious and well-produced thing I’ve ever made, but I don’t think it will ever be able to be experienced again, for myself or anyone reading this. I say this not to gatekeep or mourn an ephemeral piece of art, just that the initial idea for this post was to explain how you could set up this game/event, and I’m realizing the tone will actually be explaining how you won’t (or shouldn’t) run it.
 
+<img src="/assets/img/tabletop/MLH/redfilter.jpg" alt="Red Filter Clue" width="50%">
+
 This won’t be one of my better written posts, I’m just trying to cover too much ground. The rules explanation, design walkthrough, boasts and self-deprecation and general snootiness on my part is too tangled a mess to meaningfully separate, though I try. Apologies. I lived and breathed this world for a healthy few months and could talk forever about these things, so if anything is interesting in this post that’s unclear or I don’t get into enough, please let me know (alexkuzel.business@gmail.com, or however you normally contact me), and I’ll add an addendum to the post.
 
 ## <a href="#head2" id="header2">So What Actually Was Murder at Loveland Harbor?</a>
@@ -32,7 +34,7 @@ So, if you were a player, your experience of Murder at Loveland Harbor was somet
 
 <img src="/assets/img/tabletop/MLH/sigil.jpg" alt="Clues with sigil." width="50%">
 
-As for the narrative, I did a kind of silly amount of worldbuilding for this. The general premise is that Loveland Harbor is a (fictional) miniscule island in coastal Maine, which has just been settled by a group of forum-users obsessed with the (fictional) TV show Black Sight. In a few short weeks, food supplies dwindle and tensions rise until October 30th 2026, when the corpse of the forum’s ringleader (the party-host) is discovered. Hilarity ensues.
+As for the narrative, I did a kind of silly amount of worldbuilding for this. The general premise is that Loveland Harbor is a (fictional) miniscule island in coastal Maine, which has just been settled by a group of forum-users obsessed with the (fictional) TV show Black Sight. In a few short weeks, food supplies dwindle and tensions rise until October 30th 2026, when the corpse of the forum’s ringleader (the party-host) is discovered. Hilarity ensues. The overall tone, if you haven't gathered, was meant to be a bit goofy without devolving into pure farce. The reason for that being I didn't think a Halloween party was the mood for serious soul-crushing themes, and having a whimsical sandbox of online drama allowed me to not get too worried about writing corny prose.
 
 ## <a href="#head3" id="header3">"Seems Straightforward Enough, Why Are You Being Such a Nerd About This?"</a>
 Listen, you need to be *insane* to set this up and run it for your friends. If you were to download the attached files containing all Clues, character sheets, puzzles etc., much of the narrative groundwork would be laid for you, but you would still need to spend several hours cutting and pasting, figure out where to hide dozens and dozens of Clues, not to mention purchasing supplemental materials including but not limited to, ~40 manilla envelopes, a UV flashlight, magnifying glass, padlocks, traditional “key” locks, puzzle boxes, and a dozen or so nametags.

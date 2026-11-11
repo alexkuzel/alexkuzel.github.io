@@ -27,7 +27,7 @@ body {
   background-color: rgb(39, 39, 195);
   color: rgb(122, 255, 137);
   font-family: 'Lucida Sans', cursive; 
-  /*cursor: url()*/
+  cursor: url(/assets/img/icons8-mouse-animal-48.png)
 }
 
 body.funky-mode a:hover {
