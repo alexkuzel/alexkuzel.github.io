@@ -110,6 +110,7 @@ And thats… sort of it? There are game mechanics I haven’t mentioned but aren
     <img src="/assets/img/tabletop/MLH/purpleMagnet.jpg" alt="close-up" style="width:100%">
   </div>
 </div>
+<p style="text-align: center; font-size:1.2rem;"><i>The '202' on the magnet was a key to open a padlocked container.</i></p>
 
 <b>Points were made up and did not matter.</b> Maybe this was a bad idea that survived, you’ll be the judge. For each character’s primary and secondary objective, I assigned “points” to them, to indicate how important a task was for that character, with the idea that at the end of the game, whoever tallied the most points might get leftover goodies. This, thankfully, did not matter a bit. No one, not even myself, kept any track of these points and people pursued what they wanted to and ignored the rest. I think it was better to have it and not need it, than to need it and not have it, given how little complexity it added to say “do this thing [+10 Points]”.
 
