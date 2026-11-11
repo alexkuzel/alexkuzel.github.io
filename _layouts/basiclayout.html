@@ -120,13 +120,6 @@ else if (localStorage.getItem('mode') == 'funky') {
   document.body.classList.add("funky-mode");
 }
 
-let details = navigator.userAgent;
-let regexp = /android|iphone|kindle|ipad/i;
-let isMobileDevice = regexp.test(details);
-
-if (isMobileDevice) {
-    document.body.classList.add("mobile-mode");
-}
 
 </script>
   </body>
